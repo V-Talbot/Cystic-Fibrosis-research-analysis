@@ -10,6 +10,20 @@ The programs in this repository are written in Python 2.7 and Python 3.7.3 with 
 The files are Jupyter (IPython) notebooks (.ipynb files). You can view them here on GitHub, go to Jupyter's [nbviewer](https://nbviewer.jupyter.org/) website and enter the web address, or click on the file name in the index below to go directly to the file on nbviewer. If you want to *run* the notebooks, not just view them, you can clone the project, or run all the notebooks online by clicking this link: [Binder](https://mybinder.org/v2/gh/V-Talbot/Cystic-Fibrosis-research-analysis/master)
 
 # Index of Jupyter (IPython) Notebooks
+## Python 2.7 
 [readsample27](https://nbviewer.jupyter.org/github/V-Talbot/Cystic-Fibrosis-research-analysis/blob/master/readsample27.ipynb): Written for Python 2.7, this program reads the output from GP Microbiome and creates, then saves, csv files for further analysis with Python 3.7 later.
 
+## Python 3.7
+
+### Programs Which Create Files for Use as Input in Other Programs
+
+### Plotting Programs for GP Microbiome Output
+
+### Box Plots of TIME Output
+
 # The Example Data
+
+I have provided example data so that anyone can run my programs. 
+
+The example data for the TIME output box plots came from running Workflow 5b on example data available from the [TIME Web application](https://web.rniapps.net/time/index.php) and saving the results. See the box plot programs for more information on this files and how I downloaded them from TIME. I encourage users to visit the TIME site and play with thieir various example analyses. Then you can either download the files in the same way that I did (as specified in the box plot programs) or go to the 'Extras' folder of this repository, where I have provided them.  
+
