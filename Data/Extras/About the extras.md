@@ -1,2 +1,8 @@
 ## Extras
 Many of my example programs use the output of other programs or apps which have been run on example data as input. Although I encourage users to create these files themselves, I understand that you may only be interested in running one of my programs, and may not have even the few minutes it takes to run any of the others. My programs run quickly, but the example output files from the TIME web application do take 5-10 minutes to create and download. Therefore, I am providing some of these extra files for download here. 
+
+## Box Plot Data
+These files are for the box plot programs, and are output downloaded from the TIME web application's Workflow 5b.
+
+## Example GP Microbiome Input Files
+The input files I used to create the example output pickle file from GP Microbiome, 'example_output.p'.
