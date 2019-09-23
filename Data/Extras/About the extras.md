@@ -1,8 +1,13 @@
 ## Extras
-Many of my example programs use the output of other programs or apps which have been run on example data as input. Although I encourage users to create these files themselves, I understand that you may only be interested in running one of my programs, and may not have even the few minutes it takes to run any of the others. My programs run quickly, but the example output files from the TIME web application do take 5-10 minutes to create and download. Therefore, I am providing some of these extra files for download here. 
+Some of my example programs process the output from other programs or apps, or create files for use in my other programs. Although I encourage users to create these files themselves, and I included the necessary files in the 'Data' folder. However I understand that you may only be interested in running one of my programs, and may not have even the few minutes it takes to run any of the others. Additionally, the example output files from running the TIME web application on their antibiotic perturbation data set do take 5-10 minutes to create and download. Therefore, I am providing those files and the files created by my programs, along with the input I used to create example output for GP Microbiome, for your convenience here. 
 
-## Box Plot Data
+## Box Plot Data (Folder)
 These files are for the box plot programs, and are output downloaded from the TIME web application's Workflow 5b.
 
-## Example GP Microbiome Input Files
+## Example GP Microbiome Input Files (Folder)
 The input files I used to create the example output pickle file from GP Microbiome, 'example_output.p'.
+
+## TDTW_all_example.csv
+The file created by the program Create_TDTW_all_example
+
+
