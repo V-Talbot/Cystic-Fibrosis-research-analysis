@@ -1,0 +1,12 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pickle
+  - ast
+  - matplotlib
+  - os
+  - pandas
+  - openpyxl
+  - random
