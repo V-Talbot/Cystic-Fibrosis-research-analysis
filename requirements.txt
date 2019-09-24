@@ -2,3 +2,7 @@ numpy
 pandas
 random
 seaborn
+matplotlib
+os
+openpxl
+ast
