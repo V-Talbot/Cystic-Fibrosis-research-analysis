@@ -1,7 +1,2 @@
 numpy
 pandas
-ast
-seaborn
-matplotlib
-os
-openpxl
