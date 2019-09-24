@@ -10,9 +10,9 @@ The input files I used to create the example output pickle file from GP Microbio
 ## Files created by my own programs
 
 ### Relative Abundance Files (Folder)
-The files created by the program Create_relative_abundance_files_with_loop: 405_Rel.csv, 453_Rel.csv, 480_Rel.csv, 500_Rel.csv, 511_Rel.csv
+The files created by the program Create_relative_abundance_files_with_loop
 
-#### TDTW_all_example.csv
+### TDTW_all_example.csv
 File created by the program Create_TDTW_all_example
 
 
