@@ -17,9 +17,10 @@ The files created by the program Create_relative_abundance_files_with_loop
 #### TDTW_all_example.csv
 File created by the program Create_TDTW_all_example
 
+####
 
-
-
+#### OTUkey_named.csv
+Created by the programs Plotsamples or Leave_One_Out_Examples (the same code appears in both), this file is not used as input for other programs, but can be used as input to either of those two programs so that you can skip a couple of cells after creating and saving it in your first run of either program. 
 
 
 
