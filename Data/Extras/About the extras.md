@@ -1,7 +1,7 @@
 ## Extras
 Some of my example programs process the output from other programs or apps, or create files for use in my other programs. I encourage users to create these files themselves, and I included the necessary files in the 'Data' folder. Most take only seconds to create, but the example output files from running the TIME web application on their antibiotic perturbation data set do take 5-10 minutes to create and download. 
 
-To make the repository as accessible as possible, I am providing those files and the other files created by my programs, along with the input I used to create example output for GP Microbiome, for your convenience here. 
+Therefore, to make the repository as accessible as possible, I am providing those files, along with the other files which are created by one of my programs and used as input for others, for your convenience here. I am also including the input I used to create example output for GP Microbiome, to give you an idea of what that consists of. See also the GitHub repository for [GP Microbiome](https://github.com/tare/GPMicrobiome/blob/master/README.md) for their explanation of the input file format.
 
 #### Box Plot Data (Folder)
 These files are for the box plot programs, and are output downloaded from the TIME web application's Workflow 5b.
@@ -18,9 +18,6 @@ The files created by the program Create_relative_abundance_files_with_loop
 File created by the program Create_TDTW_all_example
 
 ####
-
-#### OTUkey_named.csv
-Created by the programs Plotsamples or Leave_One_Out_Examples (the same code appears in both), this file is not used as input for other programs, but can be used as input to either of those two programs so that you can skip a couple of cells after creating and saving it in your first run of either program. 
 
 
 
