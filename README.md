@@ -28,7 +28,7 @@ Create_TDTW_all_example
 
 I have provided example data so that anyone can run my programs. 
 
-The example data for the TIME output box plots came from running Workflow 5b on example data available from the [TIME Web application](https://web.rniapps.net/time/index.php) and saving the results. See the box plot programs for more information on this files and how I downloaded them from TIME. I encourage users to visit the TIME site and play with thieir various example analyses. Then you can either download the files in the same way that I did (as specified in the box plot programs) or go to the 'Box Plot Data' folder, located in the 'Data' folder of this repository under 'Extras', where I have provided them.  
+The example data for the TIME output box plots came from running Workflow 5b on example data available from the [TIME Web application](https://web.rniapps.net/time/index.php) and saving the results. See the box plot programs for more information on this files and how I downloaded them from TIME. I encourage users to visit the TIME site and play with thieir various example analyses. Then you can either download the files in the same way that I did (as specified in the box plot programs) or go to the 'Box Plot Data' folder, located in the 'Data' folder of this repository under 'Extras', where I have provided them. In the 'Extras' folder you can also find other files which are created by running my programs and later used as input, as an alternative to creating them yourself.  
 
 # Contact information
 If you have questions or comments, you can send an email to Virginia Talbot at vtalbot@lesley.edu or vrtalbot@yahoo.com and I will try to get back to you as soon as possible. 
