@@ -19,5 +19,5 @@ File created by the program Create_TDTW_all_example
 
 ####
 
-<a href="https://bmeg.github.io/grip/" target="_blank">here</a>
+
 
