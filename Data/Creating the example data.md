@@ -12,10 +12,10 @@ This means that the real plots don’t simply look like predicted and actual rel
 
 I wanted to portray the output realistically, and not misrepresent the algorithm. It took too much computing time on my 6-year-old machine for me to run 5 times on example input – this was much faster.
 ### With this in mind, I took the following steps:
-1. I scrambled the order of actual output from multiple participants, and created a relative abundance table, eventually know as Example_rel.csv and contained in this repository. 
+1. I scrambled the order of actual output from multiple participants, and created a relative abundance table as a starting point.
 
-2. I altered the table, moving some values into rows for bacteria of interest, adjusting some to be more realistic since the time points were scrambled, and making a few other small changes while still keeping all columns summing to 1.  
+2. I altered the table, moving some values into rows for bacteria of interest, adjusted some values to be more realistic since the time points were scrambled and they were different participants, and made a few other small changes while still keeping all columns summing to 1. I named the file Example_rel.csv. 
 
-3. I divided the table into ‘participant’ relative abundance files and imported into Python. All details of participants, ages, time points, and other metadata were fictional. Applied random weights within a range from about .5 to 1.5 (which differed depending on the values), for both the noise-free compositions and predicted noise-free compositions. Adjusted so that the columns summed to 1 and made a few minor edits such as moving more non-zero values into the ‘bacteria of interest’ rows where desired. 
+3. I divided the table into ‘participant’ relative abundance files and imported into Python. All details of participants, ages, time points, and other metadata were fictional. I applied random weights within a range from about .5 to 1.5 (which differed depending on the values), for both the noise-free compositions and predicted noise-free compositions. I normalized so that the columns summed to 1 and made a few minor edits such as moving more non-zero values into the ‘bacteria of interest’ rows  or redistributing extreme values, keeping the compositions summing to 1. 
 
 4. I previewed the plots, and made a couple of other minor adjustments to make them more realistic.
