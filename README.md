@@ -7,12 +7,7 @@ This repository is intended to be a plain-English explanation of how to implemen
 # The Programs
 The programs in this repository are written in Python 2.7 and Python 3.7 with Jupyter Notebook, and they visualize the output from two of the software programs I used: the [TIME Web application](https://web.rniapps.net/time/index.php) and [GP Microbiome](https://github.com/tare/GPMicrobiome), a Python-based program available here on GitHub. Programs are in Python 3.7.3 unless otherwise specified. They were written on a Windows 10 computer.
 
-
-<html>
-<a href="https://web.rniapps.net/time/index.php" target="_blank">NAME</a>
-</html>
-
-The files are Jupyter (IPython) notebooks (.ipynb files). You can view them here on GitHub, go to Jupyter's [nbviewer](https://nbviewer.jupyter.org/) website and enter the web address, or click on the file name in the index below to go directly to the file on nbviewer. If you want to *run* the notebooks, not just view them, you can clone or download the project, or you can run all the Python 3 notebooks online using [Deepnote.](https://beta.deepnote.com/project/a804732b-2d58-445c-85bb-510d5437d971) or [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/V-Talbot/Cystic-Fibrosis-research-analysis/master)
+The programs are Jupyter (IPython) notebooks (.ipynb files). You can view them here on GitHub, go to Jupyter's [nbviewer](https://nbviewer.jupyter.org/) website and enter the web address, or click on the file name in the index below to go directly to the file on nbviewer. If you want to *run* the notebooks, not just view them, you can clone or download the project, or you can run all the Python 3 notebooks online using [Deepnote.](https://beta.deepnote.com/project/a804732b-2d58-445c-85bb-510d5437d971) or [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/V-Talbot/Cystic-Fibrosis-research-analysis/master)
 
 # Index of Jupyter (IPython) Notebooks
 ## Python 2.7 
