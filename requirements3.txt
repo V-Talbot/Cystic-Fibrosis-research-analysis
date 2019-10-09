@@ -4,3 +4,8 @@ pandas
 openpyxl
 seaborn
 xlrd >= 1.0.0
+random
+datetime
+sklearn
+ast
+os
