@@ -19,6 +19,7 @@ The programs are Jupyter (IPython) notebooks (.ipynb files). You can view them h
 Create_relative_abundance_files
 
 Create_TDTW_all_example
+This program merges and processes output from one of the TIME web application's example analyses and creates a file which will be used later to make two different kinds of box plots. 
 [run on Deepnote](https://beta.deepnote.com/project/69bbfe4c-3745-46a0-a989-e936ebb7fb85)
 ### Plotting Programs for GP Microbiome Output
 
