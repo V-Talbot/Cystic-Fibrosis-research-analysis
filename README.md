@@ -7,7 +7,11 @@ This repository is intended to be a plain-English explanation of how to implemen
 # The Programs
 The programs in this repository are written in Python 2.7 and Python 3.7 with Jupyter Notebook, and they visualize the output from two of the software programs I used: the [TIME Web application](https://web.rniapps.net/time/index.php) and [GP Microbiome](https://github.com/tare/GPMicrobiome), a Python-based program available here on GitHub. Programs are in Python 3.7 unless otherwise specified. They were written on a Windows 10 computer.
 
-The programs are Jupyter (IPython) notebooks (.ipynb files). You can view them here on GitHub, go to Jupyter's [nbviewer](https://nbviewer.jupyter.org/) website and enter the web address, or click on the file name in the index below to go directly to the file on nbviewer. If you want to *run* the notebooks, not just view them, you can clone or download the project, or you can run all the Python 3 notebooks online using [Deepnote.](https://beta.deepnote.com/project/a804732b-2d58-445c-85bb-510d5437d971) or [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/V-Talbot/Cystic-Fibrosis-research-analysis/master)
+The programs are Jupyter (IPython) notebooks (.ipynb files). You can view them here on GitHub, go to Jupyter's [nbviewer](https://nbviewer.jupyter.org/) website and enter the web address, or click on the file name in the index below to go directly to the file on nbviewer. If you want to *run* the notebooks, not just view them, you can clone or download the project, you can run all the notebooks online using Binder, or you can run all the Python 3 notebooks online using Deepnote.
+To access the entire repository on nbviewer, Binder, or Deepnote now, click the corresponding button:
+[<img align="right" height="30" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/project/69bbfe4c-3745-46a0-a989-e936ebb7fb85)[<img align="right" height="27" src="https://mybinder.org/badge_logo.svg">](https://mybinder.org/v2/gh/V-Talbot/Cystic-Fibrosis-research-analysis/master)[<img height="38" align="right" src="https://imgur.com/JUKXSK3.png">](https://nbviewer.jupyter.org/github/V-Talbot/Cystic-Fibrosis-research-analysis/blob/master/readsample27.ipynb)
+
+Alternatively, you can go to an individual notebook and click the corresponding button to access it directly on that site.
 
 # Index of Jupyter (IPython) Notebooks
 ## Programs Which Create Files for Use as Input in Other Programs
