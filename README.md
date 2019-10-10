@@ -18,7 +18,7 @@ The programs are Jupyter (IPython) notebooks (.ipynb files). You can view them h
 ### Programs Which Create Files for Use as Input in Other Programs
 Create_relative_abundance_files     [<img height="35" align="right" src="https://mybinder.org/static/images/logo_social.png">](https://nbviewer.jupyter.org/github/V-Talbot/Cystic-Fibrosis-research-analysis/blob/master/Create_TDTW_all_example.ipynb)
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ChristianEngvall&url=https://github.com/crilleengvall/GitUndo&title=GitUndo&language=&tags=github&category=software)
+[<img height="35" src="https://imgur.com/pBzKSzm.png">](https://nbviewer.jupyter.org/github/V-Talbot/Cystic-Fibrosis-research-analysis/blob/master/Create_TDTW_all_example.ipynb)
 
 [<img height="16" align="left" src="https://nbviewer.jupyter.org/static/ico/ipynb_icon_16x16.png">](https://nbviewer.jupyter.org/github/V-Talbot/Cystic-Fibrosis-research-analysis/blob/master/Create_TDTW_all_example.ipynb)
 
