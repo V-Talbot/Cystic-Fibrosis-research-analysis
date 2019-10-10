@@ -13,8 +13,8 @@ The programs are Jupyter (IPython) notebooks (.ipynb files). You can view them h
 ## Programs Which Create Files for Use as Input in Other Programs
 
 ### Python 2.7
-#### readsample27[<img align="right" height="30" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/project/69bbfe4c-3745-46a0-a989-e936ebb7fb85)[<img height="35" align="right" src="https://imgur.com/pBzKSzm.png">](https://nbviewer.jupyter.org/github/V-Talbot/Cystic-Fibrosis-research-analysis/blob/master/readsample27.ipynb)
-Written for Python 2.7, this program reads the output from GP Microbiome and creates, then saves, csv files for further analysis with Python 3.7 later. [<img height="35" align="right" src="https://imgur.com/pBzKSzm.png">](https://nbviewer.jupyter.org/github/V-Talbot/Cystic-Fibrosis-research-analysis/blob/master/readsample27.ipynb)[<img align="right" height="30" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/project/69bbfe4c-3745-46a0-a989-e936ebb7fb85)
+#### readsample27[<img align="right" height="30" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/project/69bbfe4c-3745-46a0-a989-e936ebb7fb85)[<img height="37" align="right" src="https://imgur.com/pBzKSzm.png">](https://nbviewer.jupyter.org/github/V-Talbot/Cystic-Fibrosis-research-analysis/blob/master/readsample27.ipynb)
+Written for Python 2.7, this program reads the output from GP Microbiome and creates, then saves, csv files for further analysis with Python 3.7 later. 
 
 #### readsample27_with_151_edit:
 
