@@ -11,7 +11,7 @@ The programs are Jupyter (IPython) notebooks (.ipynb files). You can view them h
 To access the entire repository on nbviewer, Binder, or Deepnote now, click the corresponding button below:
 <br>
 
-[<img align="right" height="30" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/project/69bbfe4c-3745-46a0-a989-e936ebb7fb85)[<img align="right" height="27" src="https://mybinder.org/badge_logo.svg">](https://mybinder.org/v2/gh/V-Talbot/Cystic-Fibrosis-research-analysis/master)[<img height="38" align="right" src="https://imgur.com/JUKXSK3.png">](https://nbviewer.jupyter.org/github/V-Talbot/Cystic-Fibrosis-research-analysis/blob/master/readsample27.ipynb)
+[<img align="right" height="30" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/project/69bbfe4c-3745-46a0-a989-e936ebb7fb85)[<img align="right" height="27" src="https://mybinder.org/badge_logo.svg">](https://mybinder.org/v2/gh/V-Talbot/Cystic-Fibrosis-research-analysis/master)[<img height="38" align="right" src="https://imgur.com/JUKXSK3.png">](https://nbviewer.jupyter.org/github/V-Talbot/Cystic-Fibrosis-research-analysis/tree/master/)
 <br>
 
 Alternatively, you can go to an individual notebook and click the corresponding button to access it directly on that site.
