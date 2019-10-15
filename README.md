@@ -14,6 +14,7 @@ The programs are Jupyter (IPython) notebooks (.ipynb files). You can view them h
 If you want to *run* the notebooks, not just view them, you have several options: You can clone or download the project, you can run the notebooks online using websites called Binder and Deepnote.
 Binder will display them in your browser as if you were running Jupyter Notebook on your own computer. Binder can run both the Python 2 and Python 3 notebooks. 
 <br>
+
 [<img height="27" src="https://mybinder.org/badge_logo.svg">](https://mybinder.org/v2/gh/V-Talbot/Cystic-Fibrosis-research-analysis/master)
 
 Deepnote is a newer platform, and since it does not have support for Python 2 yet you can only run the Python 3 programs there. Its creators are frequently updating it and are interested in feedback and suggestions. The display is slightly different there, but Deepnote has interesting features and is well worth exploring. To access the entire repository on Deepnote now, click the button below.
