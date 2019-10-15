@@ -5,13 +5,16 @@ These programs visualize world-class repeated measures microbiome data from a co
 This repository is intended to be a plain-English explanation of how to implement longitudinal microbiome analyses, using readily available software packages. Microbiome data is notoriously challenging to work with, and traditional statistical methods often fall short. For example, the frequent use of relative abundance data can cause different bacteria to appear to be correlated simply because the relative abundances must sum to 1. Therefore, I used several custom software programs specifically designed to be used with this data type. 
 
 # The Programs
-The programs in this repository are written in Python 2.7 and Python 3.7 with Jupyter Notebook, and they visualize the output from two of the software programs I used: the [TIME Web application](https://web.rniapps.net/time/index.php) and [GP Microbiome](https://github.com/tare/GPMicrobiome), a Python-based program available here on GitHub. Programs are in Python 3.7 unless otherwise specified, and anyone can run them with example data unless otherwise specified. They were written on a Windows 10 computer.
+The programs in this repository are written in Python 2.7 and Python 3.7 with Jupyter Notebook, and they visualize the output from two of the software programs I used: the [TIME Web application](https://web.rniapps.net/time/index.php) and [GP Microbiome](https://github.com/tare/GPMicrobiome), a Python-based program available here on GitHub. Programs are in Python 3.7 unless otherwise specified, and anyone can run them with the example data provided here unless otherwise specified. 
 
-The programs are Jupyter (IPython) notebooks (.ipynb files). You can view them here on GitHub, go to Jupyter's [nbviewer](https://nbviewer.jupyter.org/) website and enter the web address, or click the button below to go directly to this repository on nbviewer.
+The programs are Jupyter (IPython) notebooks (.ipynb files). You can view them here on GitHub, but often Jupyter notebooks don't display as well on this site. Fortunately, Jupyter has a website called [nbviewer](https://nbviewer.jupyter.org/) where you can view any notebook by entering its web address. Click the button below to go directly to this repository on nbviewer.
 <br>
+
 [<img height="38" src="https://imgur.com/JUKXSK3.png">](https://nbviewer.jupyter.org/github/V-Talbot/Cystic-Fibrosis-research-analysis/tree/master/)
 <br>
-If you want to *run* the notebooks, not just view them, you have several options: You can clone or download the project, you can run the notebooks online using websites called Binder and Deepnote.
+If you want to *run* the notebooks, not just view them, you have several options: You can clone or download the project, you can run the notebooks online using websites called Binder and Deepnote. See 'Installation Instructions' for more on how to download the necessary software and run the programs on your own computer. 
+<br>
+
 Binder will display them in your browser as if you were running Jupyter Notebook on your own computer. Binder can run both the Python 2 and Python 3 notebooks. 
 <br>
 
@@ -19,6 +22,7 @@ Binder will display them in your browser as if you were running Jupyter Notebook
 
 Deepnote is a newer platform, and since it does not have support for Python 2 yet you can only run the Python 3 programs there. Its creators are frequently updating it and are interested in feedback and suggestions. The display is slightly different there, but Deepnote has interesting features and is well worth exploring. To access the entire repository on Deepnote now, click the button below.
 <br>
+
 [<img height="30" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/project/69bbfe4c-3745-46a0-a989-e936ebb7fb85)
 <br>
 
@@ -28,8 +32,8 @@ Alternatively, you can go directly to an individual notebook on nbviewer or Deep
 ## Programs Which Create Files for Use as Input in Other Programs
 
 ### Python 2.7
-### readsample27[<img align="right" height="30" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/project/69bbfe4c-3745-46a0-a989-e936ebb7fb85)[<img height="38" align="right" src="https://imgur.com/JUKXSK3.png">](https://nbviewer.jupyter.org/github/V-Talbot/Cystic-Fibrosis-research-analysis/blob/master/readsample27.ipynb)
-Written for Python 2.7, this program reads the output from GP Microbiome and creates, then saves, csv files for further analysis and plotting with Python 3.7. It also shows how I converted the output files, which initially needed to be read in Python 2.7 on a Windows 10 computer like my own, to a format that could be read by Unix-based operating systems and Python 3. 
+### readsample27[<img height="38" align="right" src="https://imgur.com/JUKXSK3.png">](https://nbviewer.jupyter.org/github/V-Talbot/Cystic-Fibrosis-research-analysis/blob/master/readsample27.ipynb)
+Written for Python 2.7, this program reads the output from GP Microbiome and creates, then saves, csv files for further analysis and plotting with Python 3.7. It also shows how I converted the output files, which initially needed to be read in Python 2.7 on a Windows 10 computer like my own, to a format that could be read by Unix-based operating systems and Python 3. Deepnote does not have support for Python 2 yet, but you can run it on Binder. 
 
 ### readsample27_with_151_edit[<img align="right" height="30" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/project/69bbfe4c-3745-46a0-a989-e936ebb7fb85)[<img height="38" align="right" src="https://imgur.com/JUKXSK3.png">](https://nbviewer.jupyter.org/github/V-Talbot/Cystic-Fibrosis-research-analysis/blob/master/readsample27_with_151_edit.ipynb)
 Unlike most of my programs, this edit to readsample27 cannot be run with example data. I include it because it demonstrates how to avoid letting a minor discrepancy in a single file cause a significant error later. 
