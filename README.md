@@ -26,7 +26,7 @@ Deepnote is a newer platform, and since it does not have support for Python 2 ye
 [<img height="30" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/project/69bbfe4c-3745-46a0-a989-e936ebb7fb85)
 <br>
 
-Alternatively, you can go directly to an individual notebook on nbviewer or Deepnote by clicking the corresponding button under its description.   
+Alternatively, you can go directly to an individual notebook on nbviewer or Deepnote by clicking the corresponding button to the right of its name.   
 
 # Index of Jupyter (IPython) Notebooks
 ## Programs Which Create Files for Use as Input in Other Programs
