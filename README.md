@@ -72,6 +72,7 @@ Boxplots compare the Dynamic Time Warping (DTW) distance from each of 3 selected
 Similar to DTW_all_boxplots, this uses as input the results of running one of TIME's example analyses, which looks at antibiotic use and bacteria. Users can run the TIME algorithm and download the results themselves, then process them in Create_TDTW_all_example to create the input file for this program, or they can use copies of them provided here for their convenience. 
 
 ### DTW_boxplots_by_status[<img align="right" height="30" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/project/69bbfe4c-3745-46a0-a989-e936ebb7fb85)[<img height="38" align="right" src="https://imgur.com/JUKXSK3.png">](https://nbviewer.jupyter.org/github/V-Talbot/Cystic-Fibrosis-research-analysis/blob/master/DTW_boxplots_by_status.ipynb)
+These boxplots show the DTW distance for bacteria from TIME's antibiotic example analysis, grouped by factor variables related to antibiotic use. 
 
 # The Example Data
 
