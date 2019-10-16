@@ -32,7 +32,7 @@ Alternatively, you can go directly to an individual notebook on nbviewer or Deep
 ## Programs Which Create Files for Use as Input in Other Programs
 
 ### Python 2.7
-### readsample27[<img height="27" src="https://mybinder.org/badge_logo.svg">](https://mybinder.org/v2/gh/V-Talbot/Cystic-Fibrosis-research-analysis/master?filepath=readsample27.ipynb)[<img height="38" align="right" src="https://imgur.com/JUKXSK3.png">](https://nbviewer.jupyter.org/github/V-Talbot/Cystic-Fibrosis-research-analysis/blob/master/readsample27.ipynb)
+### readsample27[<img align="right" height="27" src="https://mybinder.org/badge_logo.svg">](https://mybinder.org/v2/gh/V-Talbot/Cystic-Fibrosis-research-analysis/master?filepath=readsample27.ipynb)[<img height="38" align="right" src="https://imgur.com/JUKXSK3.png">](https://nbviewer.jupyter.org/github/V-Talbot/Cystic-Fibrosis-research-analysis/blob/master/readsample27.ipynb)
 Written for Python 2.7, this program reads the output from GP Microbiome and creates, then saves, csv files for further analysis and plotting with Python 3.7. It also shows how I converted the output files, which initially needed to be read in Python 2.7 on a Windows 10 computer like my own, to a format that could be read by Unix-based operating systems and Python 3. Deepnote does not have support for Python 2 yet, but you can run it on Binder. 
 
 ### readsample27_with_151_edit[<img align="right" height="30" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/project/69bbfe4c-3745-46a0-a989-e936ebb7fb85)[<img height="38" align="right" src="https://imgur.com/JUKXSK3.png">](https://nbviewer.jupyter.org/github/V-Talbot/Cystic-Fibrosis-research-analysis/blob/master/readsample27_with_151_edit.ipynb)
