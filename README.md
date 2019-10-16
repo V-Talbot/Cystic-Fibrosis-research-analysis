@@ -23,7 +23,7 @@ Binder will display them in your browser as if you were running Jupyter Notebook
 Deepnote is a newer platform, and since it does not have support for Python 2 yet you can only run the Python 3 programs there. Its creators are frequently updating it and are interested in feedback and suggestions. The display is slightly different there, but Deepnote has interesting features and is well worth exploring. To access the entire repository on Deepnote now, click the button below.
 <br>
 
-[<img height="30" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/project/9368bfae-b794-4e53-ba8e-57694ec4a1a3)
+[<img height="30" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.org/launch?template=python_3.6 & url=https%3A%2F%2Fgithub.com%2FV-Talbot%2FCystic-Fibrosis-research-analysis)
 <br>
 
 Alternatively, you can go directly to an individual notebook on nbviewer, Binder or Deepnote by clicking the corresponding button to the right of its name.   
