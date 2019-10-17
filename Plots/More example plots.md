@@ -22,9 +22,9 @@ My box plot programs for the TIME Web Application output contain example images 
     <td> With Predictions </td>
     <td> Leave-One-Out with Predictions</td>
   <tr>
-    <td> <img src='https://imgur.com/67y06Aa.png' style='height:400px'></td>
-    <td><img src='https://imgur.com/NVzCBG2.png' style='height:400px'></td>
-    <td><img src='https://imgur.com/8UJp7WS.png' style='height:400px'></td>
+    <td> <img src='https://imgur.com/67y06Aa.png' style='height:100px'></td>
+    <td><img src='https://imgur.com/NVzCBG2.png' style='height:100px'></td>
+    <td><img src='https://imgur.com/8UJp7WS.png' style='height:100px'></td>
     </tr>
   </table>
 
