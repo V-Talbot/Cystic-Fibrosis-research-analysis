@@ -4,7 +4,7 @@ These programs visualize world-class repeated measures microbiome data from a co
 # About This Repository
 This repository is intended to be a plain-English explanation of how to implement longitudinal microbiome analyses, using readily available software packages. Microbiome data is notoriously challenging to work with, and traditional statistical methods often fall short. For example, the frequent use of relative abundance data can cause different bacteria to appear to be correlated simply because the relative abundances must sum to 1. Therefore, I used several custom software programs specifically designed to be used with this data type. 
 
-Please note that, because of the way GitHub reads html code, the links below will not automatically open in a new tab or window. If you do not want to navigate away from this page when clicking on a link, use the usual method of holding down the Ctrl button (Cmd on Mac OS) while you click, or right-click for the dropdown menu option.
+Please note that links on GitHub will not automatically open in a new tab because of the way it reads html code. Use the usual methods, such as Ctrl+click, if you wish to avoid navigating away from this page when clicking on the links below.
 
 # The Programs
 The programs in this repository are written in Python 2.7 and Python 3.7 with Jupyter Notebook, and they visualize the output from two of the software programs I used: the [TIME Web application](https://web.rniapps.net/time/index.php) and [GP Microbiome](https://github.com/tare/GPMicrobiome), a Python-based program available here on GitHub. Programs are in Python 3.7 unless otherwise specified, and anyone can run them with the example data provided here unless otherwise specified. 
