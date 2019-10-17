@@ -2,5 +2,6 @@ pandas
 numpy
 matplotlib==3.1.0
 openpyxl
+seaborn
 scikit_learn
 xlrd
