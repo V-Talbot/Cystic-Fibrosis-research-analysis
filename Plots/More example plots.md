@@ -3,7 +3,7 @@ I have created this 'Plots' folder for your convenience when running my plotting
 
 My box plot programs for the TIME Web Application output contain example images of what the output should look like. Here I provide example output and legends for the plots of GP Microbiome output. 
 
-## Plots of GP Microbiome output, showing 4 OTU's per image file
+### Plots of GP Microbiome output with all time points included, showing 4 OTU's per image file
 <table>
   <tr>
   <td> Without Predictions </td>
@@ -15,7 +15,14 @@ My box plot programs for the TIME Web Application output contain example images 
 <td><img src='https://imgur.com/rf8cBpv.png' style='height:400px'></td>
 </tr></table>
 
-## Legends for GP Microbiome plots
+### Leave-One-Out Plots of GP Microbiome output, showing 3 OTU's per image file
+<table>
+  <tr>
+  <td> <img src='https://imgur.com/o9yyLN7.png' style='height:400px'></td>
+  </tr>
+</tr></table>
+
+### Legends for GP Microbiome plots
 <table>
   <tr>
     <td> Basic Legend</td>
