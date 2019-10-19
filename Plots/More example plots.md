@@ -45,13 +45,6 @@ My box plot programs for the TIME Web Application output contain example images 
   <td><img src='https://imgur.com/HWxfLIQ.png' style='height:500px'></td>
 </tr></table>
 
-### Plots with predictions, showing 3 OTU's per image file
-<table>
-  <tr>
-  <td> <img src='https://imgur.com/o9yyLN7.png' style='height:200px'></td>
-  </tr>
-</tr></table>
-
 <img src='https://imgur.com/GrCua5d.png' style='height:200px'>
 
 ### Legends for GP Microbiome plots
