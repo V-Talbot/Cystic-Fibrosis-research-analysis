@@ -9,13 +9,13 @@ My box plot programs for the TIME Web Application output contain example images 
   <td> Without Predictions </td>
    </tr>
   <tr>
-    <td> <img src='https://imgur.com/vuKEgOz.png' style='height:400px'></td>
+    <td> <img src='https://imgur.com/vuKEgOz.png' style='height:500px'></td>
   </tr>
   <tr>
   <td> With Predictions Included </td>
   </tr>
   <tr>
-  <td><img src='https://imgur.com/rf8cBpv.png' style='height:400px'></td>
+  <td><img src='https://imgur.com/rf8cBpv.png' style='height:500px'></td>
 </tr></table>
 <table>
   <tr>
@@ -23,11 +23,12 @@ My box plot programs for the TIME Web Application output contain example images 
   <td> With Predictions Included </td>
   </tr>
   <tr>
-<td> <img src='https://imgur.com/vuKEgOz.png' style='height:400px'></td>
- <td><img src='https://imgur.com/rf8cBpv.png' style='height:400px'></td>
+<td> <img src='https://imgur.com/vuKEgOz.png' style='height:500px'></td>
+ <td><img src='https://imgur.com/rf8cBpv.png' style='height:500px'></td>
 </tr></table>
 
 ### Plots with predictions, showing 3 OTU's per image file
+<img src='https://imgur.com/m4uCjk0.png' style='height:200px'>
 
 ### Examples from Leave_One_Out_Examples
 <table>
@@ -35,21 +36,23 @@ My box plot programs for the TIME Web Application output contain example images 
   <td> Without Predictions </td>
    </tr>
   <tr>
-    <td> <img src='https://imgur.com/vuKEgOz.png' style='height:200px'></td>
+    <td> <img src='https://imgur.com/vuKEgOz.png' style='height:500px'></td>
   </tr>
   <tr>
   <td> With Predictions Included </td>
   </tr>
   <tr>
-  <td><img src='https://imgur.com/o9yyLN7.png' style='height:300px'></td>
+  <td><img src='https://imgur.com/HWxfLIQ.png' style='height:500px'></td>
 </tr></table>
 
 ### Plots with predictions, showing 3 OTU's per image file
 <table>
   <tr>
-  <td> <img src='https://imgur.com/o9yyLN7.png' style='height:400px'></td>
+  <td> <img src='https://imgur.com/o9yyLN7.png' style='height:200px'></td>
   </tr>
 </tr></table>
+
+<img src='https://imgur.com/GrCua5d.png' style='height:200px'>
 
 ### Legends for GP Microbiome plots
 <table>
@@ -58,9 +61,9 @@ My box plot programs for the TIME Web Application output contain example images 
     <td> With Predictions </td>
     <td> Leave-One-Out with Predictions</td>
   <tr>
-    <td> <img src='https://imgur.com/67y06Aa.png' style='height:100px'></td>
-    <td><img src='https://imgur.com/NVzCBG2.png' style='height:100px'></td>
-    <td><img src='https://imgur.com/8UJp7WS.png' style='height:100px'></td>
+    <td> <img src='https://imgur.com/67y06Aa.png' style='height:100ppx'></td>
+    <td><img src='https://imgur.com/NVzCBG2.png' style='height:100ppx'></td>
+    <td><img src='https://imgur.com/8UJp7WS.png' style='height:100ppx'></td>
     </tr>
   </table>
 
