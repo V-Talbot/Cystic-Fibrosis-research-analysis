@@ -22,7 +22,7 @@ After I created the new environment, in addition to being able to use Python 2.7
 
 The red arrow below points to the dropdown menu where the environment can be changed.
 
-<img src='https://imgur.com/shU91ax.png' style:height='300px'>
+<img src='https://imgur.com/PNXfbx5.png' style:height='300px'>
 
 ## Downloading the repository
 You can download the repository in the usual way, by clicking on the 'Clone or Download' button in the GitHub web platform or directly using a 'git clone' command.
