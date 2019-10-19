@@ -4,7 +4,7 @@ Due to time constraints and the limitations of my computer, it did not make sens
 
 To demonstrate my plots of the output from GP Microbiome, I could have simply randomly generated some relative abundances and then applied random weights to them, as I did in Leave_One_Out_Example to create a second version of one of my example GP Microbiome output files. That code applied weights to one of the example files I had created in the more manual fashion described here and normalized them to sum to 1. Although the process I describe here was very similar to the one in that program, it wasn’t exactly the same. 
 
-I wanted the plots to look as similar in nature to the real ones, and to have the bacteria of interest show up as prominently as they did in the CF data, which had a high proportion of zeros. I wanted them to have a similar range of values in general, which differed for each of the 245 operational taxonomic units (OTUs).
+I wanted the plots to look as similar in nature to the real ones, and to have the bacteria of interest show up as prominently as they did in the CF data, which had a high proportion of zeros. I wanted them to have a similar range of values in general, which differed for each of the 245 operational taxonomic units (OTU's).
 
 Zero-inflation was one reason why GP Microbiome was an appropriate tool for our data. GP Microbiome calculates noise-free relative abundances from observed relative abundances, and can make predictions for noise-free relative abundances between time points or in the future. For more on the program, see the related research article [here.](https://academic.oup.com/bioinformatics/article/34/3/372/4157442)
 
