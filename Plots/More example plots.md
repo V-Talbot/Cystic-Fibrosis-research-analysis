@@ -19,8 +19,15 @@ My box plot programs for the TIME Web Application output contain example images 
   </tr>
 </table>
 
-### Plots with predictions, showing 3 OTU's per image file
-<img src='https://imgur.com/m4uCjk0.png' style='height:200px'>
+### Plots showing 3 OTU's per image file
+<table>
+  <tr>
+    <th style="text-align:center">With Predictions Included</th>
+  </tr>
+  <tr>
+    <td><img src='https://imgur.com/m4uCjk0.png' style='height:200px'></td>
+  </tr>
+</table>
 
 ### Examples from Leave_One_Out_Examples
 <table>
@@ -39,7 +46,14 @@ My box plot programs for the TIME Web Application output contain example images 
 </table>
 
 ### Examples from Plots_Shaded_Backgrounds
-<img src='https://imgur.com/GrCua5d.png' style='height:200px'>
+<table>
+  <tr>
+    <th style="text-align:center">Background Shaded According to Antibiotic Use</th>
+  </tr>
+  <tr>
+    <td><img src='https://imgur.com/GrCua5d.png' style='height:200px'></td>
+  </tr>
+</table>
 
 ### Legends for GP Microbiome plots in Plotsamples and Leave_One_Out_Examples
 <table>
