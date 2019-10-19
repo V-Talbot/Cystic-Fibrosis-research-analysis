@@ -6,26 +6,18 @@ My box plot programs for the TIME Web Application output contain example images 
 ### Examples from Plotsamples
 <table>
   <tr>
-  <td> Without Predictions </td>
-   </tr>
-  <tr>
-    <td> <img src='https://imgur.com/vuKEgOz.png' style='height:500px'></td>
+      <th style="text-align:center">Without Predictions</th>
   </tr>
   <tr>
-  <td> With Predictions Included </td>
+      <td><img src='https://imgur.com/vuKEgOz.png' style='height:500px'></td>
   </tr>
   <tr>
-  <td><img src='https://imgur.com/rf8cBpv.png' style='height:500px'></td>
-</tr></table>
-<table>
-  <tr>
-  <td> Without Predictions </td>
-  <td> With Predictions Included </td>
+      <th style="text-align:center">With Predictions Included</th>
   </tr>
   <tr>
-<td> <img src='https://imgur.com/vuKEgOz.png' style='height:500px'></td>
- <td><img src='https://imgur.com/rf8cBpv.png' style='height:500px'></td>
-</tr></table>
+      <td><img src='https://imgur.com/rf8cBpv.png' style='height:500px'></td>
+  </tr>
+</table>
 
 ### Plots with predictions, showing 3 OTU's per image file
 <img src='https://imgur.com/m4uCjk0.png' style='height:200px'>
@@ -33,30 +25,33 @@ My box plot programs for the TIME Web Application output contain example images 
 ### Examples from Leave_One_Out_Examples
 <table>
   <tr>
-  <td> Without Predictions </td>
-   </tr>
-  <tr>
-    <td> <img src='https://imgur.com/vuKEgOz.png' style='height:500px'></td>
+      <th style="text-align:center">Without Predictions</th>
   </tr>
   <tr>
-  <td> With Predictions Included </td>
+      <td><img src='https://imgur.com/NsGTLUr.png' style='height:500px'></td>
   </tr>
   <tr>
-  <td><img src='https://imgur.com/HWxfLIQ.png' style='height:500px'></td>
-</tr></table>
+      <th style="text-align:center">With Predictions Included</th>
+  </tr>
+  <tr>
+      <td><img src='https://imgur.com/HWxfLIQ.png' style='height:500px'></td>
+  </tr>
+</table>
 
+### Examples from Plots_Shaded_Backgrounds
 <img src='https://imgur.com/GrCua5d.png' style='height:200px'>
 
-### Legends for GP Microbiome plots
+### Legends for GP Microbiome plots in Plotsamples and Leave_One_Out_Examples
 <table>
   <tr>
-    <td> Basic Legend</td>
-    <td> With Predictions </td>
-    <td> Leave-One-Out with Predictions</td>
+    <th style="text-align:center">Basic Legend</th>
+    <th style="text-align:center">With Predictions</th>
+    <th style="text-align:center">Leave-One-Out with Predictions</th>
+  </tr>
   <tr>
-    <td> <img src='https://imgur.com/67y06Aa.png' style='height:100ppx'></td>
-    <td><img src='https://imgur.com/NVzCBG2.png' style='height:100ppx'></td>
-    <td><img src='https://imgur.com/8UJp7WS.png' style='height:100ppx'></td>
-    </tr>
-  </table>
+    <td> <img src='https://imgur.com/67y06Aa.png' style='height:200px'></td>
+    <td><img src='https://imgur.com/NVzCBG2.png' style='height:200px'></td>
+    <td><img src='https://imgur.com/8UJp7WS.png' style='height:200px'></td>
+  </tr>
+</table>
 
