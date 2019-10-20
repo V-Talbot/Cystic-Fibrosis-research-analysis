@@ -3,7 +3,7 @@ Some of my example programs process the output from other programs or apps, or c
 
 Therefore, to make the repository as accessible as possible, I am providing those files, along with the other files which are created by one of my programs and used as input for others, for your convenience here. I am also including the input I used to create example output for GP Microbiome, to give you an idea of what that consists of. (See also the GitHub repository for [GP Microbiome](https://github.com/tare/GPMicrobiome/blob/master/README.md) for their explanation of the input files and their format.)
 
-In  my programs, when there is an option to use the data in the 'Extras' folder, you will find that I have included the alternative code, either as a separate cell or as a line in the cell's comment. The program will direct you to un-comment that line by deleting the leading '#' and add a '#' to the one which uses the 'Data' folder. 
+In  my programs, when there is an option to use the data in the 'Extras' folder, you will find that I have included the alternative code, either as a separate cell or as a comment in the same cell. The program will direct you to un-comment that line and comment out the one which uses the 'Data' folder. 
 
 ### Files related to other programs
 
