@@ -8,4 +8,6 @@ First, when running a Jupyter Notebook, you will have the option to run one cell
 
 Second, comments in programming explain to other people what the code is intended to do, or may offer an optional line of code. Python ignores thes lines. Comments in Python are preceded by a '#.' To un-comment a comment containing code so that the code will run, delete the '#.' To comment out a line, add a '#.'
 
+Finally, there is an abundance of programming help available for open source software such as Python. Try searching the web or looking for video tutorials if you are stuck, or check to see if your local library has books on the subject.
+
 If you have further questions or are struggling with errors, please email me at vrtalbot@yahoo.com or vtalbot@lesley.edu and I will be happy to help.
