@@ -3,4 +3,4 @@ Cython == 0.29.10
 pandas == 0.24.2
 IPython == 5.8.0
 matplotlib == 2.2.3
-jinja2 == 2.10.1
+jinja2 == 2.11.3
